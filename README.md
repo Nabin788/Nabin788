@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React.js, Nodejs, Express.js, MongoDB**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React.js, Nodejs, Express.js, MongoDB, and MERN**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Nodejs**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Nodejs, MongoDB, and MERN **
 
 - 📫 How to reach me **nabinpoudel788@gmail.com**
 
