@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/followers/nabin788?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzXh1vI5oXPdhS/giphy.gif" width="500px" alt="Person sitting next to a window with a nature view"/>
+</p>
+
 ---
 
 🌱 **I’m currently learning**: <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
