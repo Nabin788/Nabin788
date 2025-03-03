@@ -7,9 +7,9 @@
 
 ---
 
-🌱 **I’m currently learning**: HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, MERN Stack, Dart and Flutter.
+🌱 **I’m currently learning**: React.js, Dart and Flutter.
 
-💬 **Ask me about**: HTML5, CSS3, JavaScript, React.js, Node.js, MongoDB, and MERN Stack.
+💬 **Ask me about**: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, and MERN Stack.
 
 📫 **How to reach me**: [Email](mailto:nabinpoudel788@gmail.com)
 
