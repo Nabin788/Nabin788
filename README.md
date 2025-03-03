@@ -7,27 +7,11 @@
 
 ---
 
-<h3 align="center">🎵 Now Playing</h3>
-<p align="center">
-  <audio controls>
-    <source src="https://your-audio-file-url.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Play Music" width="300" />
-  </a>
-</p>
-
----
-
 🌱 **I’m currently learning**: React.js, Dart and Flutter.
 
-🗨 **Ask me about**: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, and MERN Stack.
+💬 **Ask me about**: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, and MERN Stack.
 
-💎 **How to reach me**: [Email](mailto:nabinpoudel788@gmail.com)
+📫 **How to reach me**: [Email](mailto:nabinpoudel788@gmail.com)
 
 ---
 
