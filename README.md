@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabin Poudel</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Enthusiast | Podcast Card Writer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabin788&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,14 +12,17 @@ I'm a detail-oriented backend developer with strong skills in building efficient
 
 ---
 
-🌱 **Currently Learning**: React.js, Dart, and Flutter  
-💼 **Actively Building**: SecureDrop (Anonymous Reporting System)  
+🌱 **Currently Learning**: React.js, Rust, Networking  
+💼 **Projects**: Personal Portfolio Website, IT_Marts E-commerce  
 📬 **Reach Me At**: [Email](mailto:nabinpoudel788@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nabin788/)  
 🌐 **Portfolio**: [nabin788.com.np](https://nabin788.com.np)
 
 ---
 
 <h3 align="left">🚀 Skills and Technologies:</h3>
+
+**Programming Languages:**  
+C · JavaScript · Rust
 
 **Frontend:**  
 HTML5 · CSS3 · JavaScript · Responsive Design · React.js (Learning)
@@ -31,16 +34,24 @@ Node.js · Express.js · RESTful APIs · JWT · Server-side Programming
 MongoDB · Mongoose
 
 **DevOps & Hosting:**  
-Git · GitHub · Render · GitHub Pages · Netlify · Cloudflare
+Git · GitHub · GitHub Pages · GitLab · Render · Netlify · Cloudflare
 
-**Other Tools:**  
-Microsoft Office · Basic Networking · Hardware Setup
+**Other Skills:**  
+Microsoft Office · Basic Networking · Hardware Setup · Writer: Podcast Card
 
 ---
 
 <h3 align="left">📌 Projects:</h3>
 
 - 🌐 [Personal Portfolio](https://nabin788.com.np): Fully responsive portfolio built with HTML, CSS, JavaScript, and Node.js. Deployed via Render + Cloudflare.
+
+- 🛒 **IT_Marts – E-commerce Website**  
+  • An online e-commerce platform to browse and purchase tech products.  
+  • Integrated **WhatsApp messaging** and **Twilio SMS** APIs for real-time customer communication and order updates.  
+  • Backend: Node.js, Express.js, MongoDB  
+  • Frontend: HTML5, CSS3, JavaScript  
+  • Features: Product listing, cart system, WhatsApp-based order inquiry, Twilio-powered confirmation alerts.  
+  • *Demo/GitHub link: Coming Soon*
 
 - 🌤 [Weather App](https://nabin788.github.io/weather/): Real-time weather app using OpenWeatherMap API.
 
@@ -54,7 +65,7 @@ Microsoft Office · Basic Networking · Hardware Setup
 
 <h3 align="left">🎓 Education & Certifications:</h3>
 
-- 🎓 MSc CSIT — *Medhavi College (2024–Present)*  
+- 🎓 MCs IT — *Medhavi College (2024–Present)*  
 - 🎓 BCA — *LA GRANDEE International College, Pokhara (2018–2023)*  
 - 📜 Internship — *Nepal Telecom (Telecommunication Support)*  
 - 🖼 Training — *EVERsoft (Graphics Design)*  
@@ -90,4 +101,4 @@ Microsoft Office · Basic Networking · Hardware Setup
 ---
 
 <h3 align="center">💡 Fun Fact:</h3>
-<p align="center">🚀 The best way to predict the future is to create it! 🌍</p>
+<p align="center">🚀 Your Limits, My Playground 🌍</p>
