@@ -1,3 +1,5 @@
+<div align="center" style="background-color:#f0f0f0; padding:30px; border-radius:12px;">
+  
 <!-- 🌈 HEADER SECTION (Animated Gradient Header) -->
 <div align="center">
   <!-- Animated capsule header -->
@@ -111,4 +113,5 @@ My stack includes **Next.js**, **NestJS**, and **TypeScript** — powered by **P
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c98f0,100:0e153a&height=160&section=footer&text=🚀%20Your%20Limits%2C%20My%20Playground.%20🌍&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Footer"/>
 </p>
 
+</div>
 </div>
