@@ -1,93 +1,101 @@
-<!-- Header with animated banner -->
+<!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nabin%20Poudel&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20🚀&descAlignY=55" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e153a,100:2c98f0&height=250&section=header&text=Nabin%20Poudel&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Next.js%20%26%20NestJS%20|%20TypeScript%20|%20PostgreSQL(Neon)&descAlignY=55" alt="Header"/>
 </p>
 
-<!-- Typing animation -->
+<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C98F0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+NestJS;TypeScript+%7C+PostgreSQL+(Neon)+%7C+Prisma;Building+Modern+Web+Ecosystems+with+Scalable+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2C98F0&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Nabin+Poudel;🚀+Full+Stack+Developer+(Next.js+%2B+NestJS);⚙️+TypeScript+|+PostgreSQL+(Neon)+|+Prisma;🌐+Building+Interactive+Digital+Ecosystems" alt="Typing Animation"/>
+</p>
+
+<!-- TRADEMARK BACKGROUND OVERLAY -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-nabin788®-2c98f0?style=for-the-badge&logo=vercel&logoColor=white" alt="Trademark"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-I'm a **Full Stack Developer** passionate about **building interactive, fast, and scalable web apps** using modern frameworks like **Next.js**, **NestJS**, and **TypeScript**.  
-Currently pursuing my **Master’s in Computer Systems & IT**, I’m focused on **microservices, clean architecture**, and **cloud-native databases (Neon + Prisma + PostgreSQL)**.  
+### 🧩 About Me  
+I'm a **detail-oriented Full Stack Developer** passionate about crafting **scalable, animated, and immersive digital experiences**.  
+I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working with **PostgreSQL-Neon + Prisma ORM** for clean, efficient backends.  
 
-💡 *“Your limits, my playground.”*  
+🎯 My mission: to merge **design, logic, and performance** into one seamless user experience.  
+🧠 Currently learning **microservices**, **Redis caching**, and **Rust** for system-level innovation.  
 
 ---
 
-### ⚡ Tech Arsenal  
+### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,neon,cloudflare,git,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,neon,cloudflare,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
-> 🚀 Specialized in **Next.js (App Router)** & **NestJS (Clean Architecture)** with **Prisma ORM + Neon DB**.
+> 💡 _“Modern architecture is not about stacks — it’s about synergy.”_
 
 ---
 
-### 🛠️ My Toolbox
+### 🧠 Expertise
 
 | Category | Technologies |
 |-----------|--------------|
-| **Frontend** | Next.js · React.js · Tailwind CSS · Framer Motion |
-| **Backend** | NestJS · Express.js · Node.js · RESTful APIs |
+| **Frontend** | Next.js · React · Tailwind CSS · Framer Motion |
+| **Backend** | NestJS · Express · Node.js · REST APIs |
 | **Database** | PostgreSQL (Neon) · Prisma ORM · MongoDB |
 | **DevOps** | Docker · Render · Vercel · Cloudflare · GitHub Actions |
 | **Languages** | TypeScript · JavaScript · Rust · C |
-| **Others** | Networking · System Design · Podcast Card Writing |
+| **Other Skills** | Networking · System Design · Podcast Writing |
 
 ---
 
-### 🌟 Featured Projects
+### 🛠️ Featured Projects
 
-#### 🧑‍💻 [Portfolio Website](https://nabin788.com.np)
-> Built with **Next.js + Tailwind CSS + Framer Motion**  
-> Deployed on **Vercel + Cloudflare**  
-🎨 Fully animated with smooth transitions and SEO-optimized.
+#### 🌐 [Portfolio Website](https://nabin788.com.np)
+> ⚡ Built with **Next.js + TypeScript + Framer Motion**  
+> 🚀 Deployed via **Vercel + Cloudflare**  
+> 🎨 Fully responsive, SEO-optimized with animated transitions.
 
 #### 🛒 [IT_Marts — E-commerce Platform](#)
-> **NestJS + Next.js + PostgreSQL (Neon)**  
-> Real-time updates via Twilio API and WhatsApp Messaging.  
-🔐 Secure JWT Auth · Role-based Access Control · REST API Gateway.
+> 💾 **NestJS + Next.js + PostgreSQL (Neon)**  
+> 🔐 Secure Auth (JWT) + **Twilio/WhatsApp API** for real-time updates.  
+> 🧩 Microservice-ready backend using modular architecture.
 
-#### 🕵️‍♂️ [SecureDrop](https://github.com/Nabin788/secureDrop)
-> Anonymous feedback tool with **NestJS + Prisma + Mail Alerts**.  
-> Privacy-focused, modular, and extensible architecture.
-
----
-
-### 🎓 Education
-
-🎓 MSc in Computer Systems & IT — *Medhavi College (2024–Present)*  
-🎓 BCA — *LA GRANDEE International College (2018–2023)*  
-🏢 Internship — *Nepal Telecom* (Telecommunication Support)  
-🎨 Training — *EVERsoft* (Graphics Design)  
+#### 🕵️ [SecureDrop](https://github.com/Nabin788/secureDrop)
+> Anonymous reporting tool for organizations.  
+> **NestJS + Prisma + Mail Alerts**, privacy-first design.
 
 ---
 
-### 📊 GitHub Activity Dashboard
+### 🎓 Education & Background
+
+🎓 MSc. in Computer Systems & Information Technology — *Medhavi College (2024–Present)*  
+🎓 BCA — *LA GRANDEE International College, Pokhara (2018–2023)*  
+🏢 Internship — *Nepal Telecom (Telecommunication Support)*  
+🎨 Training — *EVERsoft (Graphic Design)*  
+🏅 Scholarship — MSc Bioinformatics & Computer Science (Full)
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabin788&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabin788&theme=tokyo-night&bg_color=0e153a&color=2c98f0&line=00d4ff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabin788&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabin788&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabin788&show_icons=true&theme=tokyonight&bg_color=0e153a&title_color=2c98f0" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabin788&theme=tokyonight&background=0e153a&ring=2c98f0" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin788&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin788&layout=compact&theme=tokyonight&bg_color=0e153a&title_color=2c98f0" />
 </p>
 
 ---
 
-### 🌈 Fun Animation  
+### 🏆 Achievements & Highlights
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabin788&theme=onedark&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nabin788&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" alt="Trophies"/>
 </p>
 
 <p align="center">
@@ -96,15 +104,18 @@ Currently pursuing my **Master’s in Computer Systems & IT**, I’m focused on 
 
 ---
 
-### 💬 Connect With Me
+### 💬 Let’s Connect  
+
 <p align="center">
-  <a href="mailto:nabinpoudel788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nabinpoudel788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nabin788/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://nabin788.com.np"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Trademark-nabin788®-2c98f0?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
+<!-- SIGNATURE SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c98f0,100:0e153a&height=180&section=footer&text=🚀%20Your%20Limits%2C%20My%20Playground%20🌍&fontSize=30&fontAlignY=65&fontColor=ffffff" alt="Signature Footer"/>
 </p>
