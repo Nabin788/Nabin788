@@ -1,21 +1,26 @@
-<!-- HEADER SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e153a,100:2c98f0&height=250&section=header&text=Nabin%20Poudel&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Next.js%20%26%20NestJS%20|%20TypeScript%20|%20PostgreSQL(Neon)&descAlignY=55" alt="Header"/>
-</p>
+<!-- MAIN HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e153a,100:2c98f0&height=220&section=header&text=Nabin%20Poudel&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Next.js%20%26%20NestJS%20|%20TypeScript%20|%20PostgreSQL(Neon)&descAlignY=55&animation=fadeIn" alt="header"/>
+</div>
 
-<!-- TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2C98F0&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Nabin+Poudel;🚀+Full+Stack+Developer+(Next.js+%2B+NestJS);⚙️+TypeScript+|+PostgreSQL+(Neon)+|+Prisma;🌐+Building+Interactive+Digital+Ecosystems" alt="Typing Animation"/>
-</p>
+<!-- BACKGROUND COLOR (simulated dark mode base) -->
+<div align="center" style="background-color:#0e153a; padding:25px; border-radius:10px;">
 
-<!-- TRADEMARK BACKGROUND OVERLAY -->
-<p align="center">
+<!-- TYPING INTRO ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2C98F0&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+Nabin+Poudel;🚀+Full+Stack+Developer+(Next.js+%2B+NestJS);⚙️+TypeScript+%7C+PostgreSQL+(Neon)+%7C+Prisma;🌐+Building+Interactive+Digital+Ecosystems" alt="Typing Animation"/>
+
+<p>
   <img src="https://img.shields.io/badge/-nabin788®-2c98f0?style=for-the-badge&logo=vercel&logoColor=white" alt="Trademark"/>
 </p>
 
 ---
 
-### 🧩 About Me  
+## 🧠 About Me  
+
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400" alt="Coding animation"/>
+</p>
+
 I'm a **detail-oriented Full Stack Developer** passionate about crafting **scalable, animated, and immersive digital experiences**.  
 I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working with **PostgreSQL-Neon + Prisma ORM** for clean, efficient backends.  
 
@@ -24,17 +29,21 @@ I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working wi
 
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,neon,cloudflare,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,neon,cloudflare,git,github,vscode" alt="Tech Stack" />
 </p>
 
 > 💡 _“Modern architecture is not about stacks — it’s about synergy.”_
 
 ---
 
-### 🧠 Expertise
+## 🧩 Expertise  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
+</p>
 
 | Category | Technologies |
 |-----------|--------------|
@@ -47,25 +56,33 @@ I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working wi
 
 ---
 
-### 🛠️ Featured Projects
+## 🛠️ Featured Projects  
 
-#### 🌐 [Portfolio Website](https://nabin788.com.np)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</p>
+
+### 🌐 [Portfolio Website](https://nabin788.com.np)
 > ⚡ Built with **Next.js + TypeScript + Framer Motion**  
 > 🚀 Deployed via **Vercel + Cloudflare**  
 > 🎨 Fully responsive, SEO-optimized with animated transitions.
 
-#### 🛒 [IT_Marts — E-commerce Platform](#)
+### 🛒 [IT_Marts — E-commerce Platform](#)
 > 💾 **NestJS + Next.js + PostgreSQL (Neon)**  
 > 🔐 Secure Auth (JWT) + **Twilio/WhatsApp API** for real-time updates.  
-> 🧩 Microservice-ready backend using modular architecture.
+> 🧩 Modular, microservice-ready architecture.
 
-#### 🕵️ [SecureDrop](https://github.com/Nabin788/secureDrop)
+### 🕵️ [SecureDrop](https://github.com/Nabin788/secureDrop)
 > Anonymous reporting tool for organizations.  
 > **NestJS + Prisma + Mail Alerts**, privacy-first design.
 
 ---
 
-### 🎓 Education & Background
+## 🎓 Education  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="220" />
+</p>
 
 🎓 MSc. in Computer Systems & Information Technology — *Medhavi College (2024–Present)*  
 🎓 BCA — *LA GRANDEE International College, Pokhara (2018–2023)*  
@@ -75,10 +92,10 @@ I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working wi
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabin788&theme=tokyo-night&bg_color=0e153a&color=2c98f0&line=00d4ff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabin788&theme=tokyo-night&bg_color=0e153a&color=2c98f0&line=00d4ff&area=true&hide_border=true&radius=16" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -92,7 +109,7 @@ I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working wi
 
 ---
 
-### 🏆 Achievements & Highlights
+## 🏆 Achievements & Highlights  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nabin788&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" alt="Trophies"/>
@@ -104,7 +121,7 @@ I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working wi
 
 ---
 
-### 💬 Let’s Connect  
+## 💬 Connect with Me  
 
 <p align="center">
   <a href="mailto:nabinpoudel788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -115,7 +132,9 @@ I specialize in **Next.js**, **NestJS**, and **TypeScript**, and love working wi
 
 ---
 
-<!-- SIGNATURE SECTION -->
+<!-- SIGNATURE FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c98f0,100:0e153a&height=180&section=footer&text=🚀%20Your%20Limits%2C%20My%20Playground%20🌍&fontSize=30&fontAlignY=65&fontColor=ffffff" alt="Signature Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c98f0,100:0e153a&height=160&section=footer&text=🚀%20Your%20Limits%2C%20My%20Playground.%20🌍&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Footer"/>
 </p>
+
+</div>
