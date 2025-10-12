@@ -1,17 +1,15 @@
-<!-- 🏁 HEADER SECTION (Animated + Fixed Rendering) -->
+<!-- 🌈 HEADER SECTION (Animated Gradient Header) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2c98f0,100:0e153a&text=Nabin%20Poudel&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%26%20NestJS%20%7C%20TypeScript%20%7C%20PostgreSQL(Neon)&descAlignY=55&animation=fadeIn" alt="Nabin Poudel Header"/>
+  <!-- Animated capsule header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2c98f0,100:0e153a&text=Nabin%20Poudel&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn" alt="Animated Header"/>
+  <!-- Trademark badge -->
+  <p>
+    <img src="https://img.shields.io/badge/-nabin788®-2c98f0?style=for-the-badge&logo=vercel&logoColor=white" alt="Trademark"/>
+  </p>
 </div>
 
+<!-- 🪄 BACKGROUND WRAPPER -->
 <div align="center" style="background-color:#0e153a; padding:30px; border-radius:12px;">
-
-<!-- ✨ TYPING INTRO (Animated) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2C98F0&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Nabin+Poudel;🚀+Full+Stack+Developer+(Next.js+%2B+NestJS);⚙️+TypeScript+%7C+PostgreSQL+(Neon)+%7C+Prisma;🌐+Building+Interactive+Digital+Ecosystems" alt="Typing Animation"/>
-
-<!-- 🌐 Trademark -->
-<p>
-  <img src="https://img.shields.io/badge/-nabin788®-2c98f0?style=for-the-badge&logo=vercel&logoColor=white" alt="Trademark Badge"/>
-</p>
 
 ---
 
@@ -21,11 +19,11 @@
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400" alt="Coding animation"/>
 </p>
 
-I’m a **Full Stack Developer** passionate about building **beautiful, scalable, and interactive applications**.  
-My core stack includes **Next.js**, **NestJS**, **TypeScript**, and **PostgreSQL (Neon)** — integrating clean architecture, performance, and UX.  
+I’m a **Full Stack Developer** passionate about building **dynamic, high-performance, and visually stunning web apps**.  
+My stack includes **Next.js**, **NestJS**, and **TypeScript** — powered by **PostgreSQL (Neon)** and **Prisma ORM** for scalability and clean architecture.  
 
-🎯 *Goal:* Create systems where design meets engineering.  
-🧠 *Focus Areas:* Microservices · Redis caching · Rust-based backend experiments.  
+🎯 *Mission:* Merge design, performance, and innovation into immersive user experiences.  
+🧠 *Learning:* Microservices · Redis caching · Rust for performance-critical systems.  
 
 ---
 
@@ -35,7 +33,7 @@ My core stack includes **Next.js**, **NestJS**, **TypeScript**, and **PostgreSQL
   <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,neon,cloudflare,git,github,vscode,figma,photoshop" alt="Tech Stack" />
 </p>
 
-> 💡 _“Modern architecture is not about stacks — it’s about synergy.”_
+> 💡 _“Modern architecture isn’t just code — it’s orchestration.”_
 
 ---
 
@@ -53,31 +51,25 @@ My core stack includes **Next.js**, **NestJS**, **TypeScript**, and **PostgreSQL
 
 ---
 
-## 🛠️ Featured Projects  
+## 🎓 Education  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="220" />
 </p>
 
-### 🌐 [Portfolio Website](https://nabin788.com.np)
-> Built with **Next.js + TypeScript + Framer Motion**  
-> Deployed on **Vercel + Cloudflare**  
-> ✨ Responsive, SEO-ready, and motion-animated.
-
-### 🛒 [IT_Marts — E-commerce Platform](#)
-> **NestJS + Next.js + PostgreSQL (Neon)**  
-> Real-time updates with **Twilio/WhatsApp API** and JWT authentication.
-
-### 🕵️ [SecureDrop](https://github.com/Nabin788/secureDrop)
-> Anonymous reporting system using **NestJS + Prisma + Nodemailer**.  
-> Privacy-first, modular backend.
+🎓 MSc. in Computer Systems & IT — *Medhavi College (2024–Present)*  
+🎓 BCA — *LA GRANDEE International College, Pokhara (2018–2023)*  
+🏢 Internship — *Nepal Telecom (Telecommunication Support)*  
+🎨 Training — *EVERsoft (Graphic Design)*  
+🏅 Full Scholarships — MSc Bioinformatics & MSc Computer Science  
 
 ---
 
 ## 📊 GitHub Analytics  
 
+<!-- Animated activity graph (wave motion + refreshes automatically) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabin788&theme=tokyo-night&bg_color=0e153a&color=2c98f0&line=00d4ff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabin788&theme=react-dark&bg_color=0e153a&color=2c98f0&line=00e0ff&point=ffffff&area=true&area_color=2c98f0&hide_border=true" alt="Animated Graph"/>
 </p>
 
 <p align="center">
@@ -114,7 +106,7 @@ My core stack includes **Next.js**, **NestJS**, **TypeScript**, and **PostgreSQL
 
 ---
 
-<!-- FOOTER -->
+<!-- 🌍 SIGNATURE FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c98f0,100:0e153a&height=160&section=footer&text=🚀%20Your%20Limits%2C%20My%20Playground.%20🌍&fontSize=28&fontAlignY=65&fontColor=ffffff" alt="Footer"/>
 </p>
