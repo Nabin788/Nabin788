@@ -18,28 +18,50 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400" alt="Coding animation"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding animation"/>
 </p>
 
-I’m a **Full Stack Developer** passionate about building **dynamic, high-performance, and visually stunning web apps**.  
-My stack includes **Next.js**, **NestJS**, and **TypeScript** — powered by **PostgreSQL (Neon)** and **Prisma ORM** for scalability and clean architecture.  
+<h3 align="center">✨ Passionate • Precise • Performance-Driven ✨</h3>
 
-🎯 *Mission:* Merge design, performance, and innovation into immersive user experiences.  
-🧠 *Learning:* Microservices · Redis caching · Rust for performance-critical systems.  
+<p align="center">
+  <b>Full Stack Developer</b> crafting <b>dynamic, scalable</b>, and <b>visually polished</b> web applications.  
+  I transform ideas into <b>seamless digital experiences</b> powered by clean architecture and modern technologies.
+</p>
+
+---
+
+<table align="center">
+  <tr>
+    <th align="center">🎯 Mission</th>
+    <th align="center">🧩 Current Focus</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      Merge <b>design, logic, and performance</b>  
+      to create web ecosystems that are both  
+      <b>functional</b> and <b>emotionally engaging</b>.
+    </td>
+    <td align="center" width="33%">
+      Architecting <b>microservices</b> & event-driven APIs<br/>
+      Implementing <b>Redis caching</b> for speed<br/>
+      Exploring <b>Rust</b> for performance-critical systems
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,neon,cloudflare,git,github,vscode,figma,photoshop" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,prisma,cloudflare,git,github,vscode,figma,photoshop" alt="Tech Stack" />
 </p>
 
-> 💡 _“Modern architecture isn’t just code — it’s orchestration.”_
+💡 _“Modern architecture isn’t just code — it’s orchestration.”_
 
 ---
 
-## 🎨 Colorful Expertise Matrix  
+## 🎨 Expertise  
 
 | **Category** | **Technologies** |
 |--------------|------------------|
