@@ -21,59 +21,13 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding animation"/>
 </p>
 
-<h3 align="center">✨ Passionate • Precise • Performance-Driven ✨</h3>
-
-<p align="center">
-  <b>Full Stack Developer</b> crafting <b>dynamic, scalable</b>, and <b>visually polished</b> web applications.  
-  I transform ideas into <b>seamless digital experiences</b> powered by clean architecture and modern technologies.
-</p>
-
----
-
-<table align="center">
-  <tr>
-    <th align="center">🎯 Mission</th>
-    <th align="center">🧩 Current Focus</th>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      Merge <b>design, logic, and performance</b>  
-      to create web ecosystems that are both  
-      <b>functional</b> and <b>emotionally engaging</b>.
-    </td>
-    <td align="center" width="33%">
-      Architecting <b>microservices</b> & event-driven APIs<br/>
-      Implementing <b>Redis caching</b> for speed<br/>
-      Exploring <b>Rust</b> for performance-critical systems
-    </td>
-  </tr>
-</table>
-
----
+<h3 align="center">✨ Developer ✨</h3>
 
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,typescript,postgres,prisma,nodejs,express,react,tailwind,mongodb,docker,vercel,prisma,cloudflare,git,github,vscode,figma,photoshop" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html5,css3,javaScript,typescript,nodejs,express,mongodb,docker,vercel,cloudflare,git,github,vscode" alt="Tech Stack" />
 </p>
-
-💡 _“Modern architecture isn’t just code — it’s orchestration.”_
-
----
-
-## 🎨 Expertise  
-
-| **Category** | **Technologies** |
-|--------------|------------------|
-| 🎨 **Frontend** | <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/> |
-| ⚙️ **Backend** | <img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_APIs-ff9800?style=for-the-badge&logo=swagger&logoColor=white"/> |
-| 🧩 **Database** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> |
-| 🧰 **DevOps** | <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Render-2C98F0?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> |
-| 💻 **Languages** | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> |
-| 🖌️ **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/UI%2FUX-Principles-FF61F6?style=for-the-badge&logoColor=white"/> |
-| 🌐 **Other Skills** | <img src="https://img.shields.io/badge/Networking-2c98f0?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-4A148C?style=for-the-badge&logo=architecture&logoColor=white"/> <img src="https://img.shields.io/badge/Podcast_Writing-FF6F00?style=for-the-badge&logo=anchor&logoColor=white"/> |
-
----
 
 ## 🎓 Education  
 
