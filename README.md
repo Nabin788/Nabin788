@@ -35,11 +35,11 @@
   <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="220" />
 </p>
 
-🎓 MSc. in Computer Systems & IT — *Medhavi College (2024–Present)*  
+🎓 MCS.IT — *Medhavi College (2024–Present)*  
 🎓 BCA — *LA GRANDEE International College, Pokhara (2018–2023)*  
 🏢 Internship — *Nepal Telecom (Telecommunication Support)*  
 🎨 Training — *EVERsoft (Graphic Design)*  
-🏅 Full Scholarships — MSc Bioinformatics & MSc Computer Science  
+🏅 Full Scholarships Awards — MSc Bioinformatics & MSc Computer Science  
 
 ---
 
