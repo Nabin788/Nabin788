@@ -64,10 +64,6 @@
 ## 🏆 Achievements & Highlights  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabin788&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" alt="Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
