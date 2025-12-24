@@ -26,7 +26,7 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html5,css3,javaScript,typescript,reactjs,nextjs,nodejs,express,nestjs,mongodb,postgresql,docker,vercel,cloudflare,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,nestjs,mongodb,postgresql,docker,vercel,cloudflare,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ## 🎓 Education  
